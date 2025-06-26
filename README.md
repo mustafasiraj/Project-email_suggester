@@ -36,6 +36,8 @@ This Python script automatically checks your Gmail inbox, finds the first unread
 email_user = 'your_email@gmail.com' <=== ***Replace this with your own user***
 ---
 app_password = 'your_app_password_here' <=== ***Replace this with your own password using the above steps***
+---
+
 ## 🚀 How to Run
 Just run the script with Python:
 **or visit the google colab link:** ***https://colab.research.google.com/drive/1delPABMMdvpnUd1tDH0bDNFiKPr8X52h***
