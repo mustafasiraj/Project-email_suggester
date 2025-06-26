@@ -35,7 +35,7 @@ This Python script automatically checks your Gmail inbox, finds the first unread
 
 email_user = 'your_email@gmail.com'                   ***Replace this with your own user***
 app_password = 'your_app_password_here'               ***Replace this with your own password using the above steps***
--
+
 
 ## 🚀 How to Run
 Just run the script with Python:
@@ -44,13 +44,12 @@ Just run the script with Python:
 
 **python main.py
 You’ll see output like:**
-```bash
+
 -1. 🔁 Loading AI model (flan-t5-small)...
 -2. 👤 FROM: John Doe <john@example.com>
 -3. 📨 SUBJECT: Need help with login
 -4. 🤖 AI SUGGESTED REPLY:
 Hi John, I’d be happy to help you regain access to your account. Please try resetting your password from the login screen..
-```bash.
 
 ### 📂 File Output (Optional)
 By default, the script only prints the reply.
