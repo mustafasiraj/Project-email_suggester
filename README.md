@@ -1,5 +1,6 @@
 # 📧 AI Email Auto-Responder
 This Python script automatically checks your Gmail inbox, finds the first unread, valid, human-like email, and generates a polite, AI-powered reply using Google's flan-t5-small model.
+**The reply does seem to understand at first but you can understand**
 
 ## ✨ Features
 - ✅ Connects securely to Gmail via IMAP
