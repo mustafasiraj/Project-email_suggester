@@ -6,8 +6,8 @@ import torch
 import os
 
 # ========== 1. GMAIL LOGIN ==========
-email_user = 'Your_email_user'
-app_password = 'Your_app_password'  # App password from Google
+email_user = ## Your_email_user'
+app_password = ## 'Your_app_password'  # App password from Google
 
 try:
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
