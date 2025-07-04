@@ -5,6 +5,11 @@ This Python script automatically checks your Gmail inbox, finds the first unread
 
 ---
 
+## Notes:
+- **please enter your own credidentials in the code like** 
+- **Email_user: YOUR_EMAIL_USER**
+- **App_password: YOUR_APP_PASSWORD**
+
 ## ✨ Features
 
 - ✅ Connects securely to Gmail via IMAP  
